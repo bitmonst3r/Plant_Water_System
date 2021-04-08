@@ -7,3 +7,4 @@ A plant watering system built with an Arduino and Arduino Programming
 ![Components-Screenshot](img/Components.jpg)
 
 ## Working System
+![Plant-giff](img/Water_Plant.giff)
