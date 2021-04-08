@@ -1,4 +1,4 @@
-# Plant_Water_System
+# Plant Watering System
 
 ## Project Description
 A plant watering system built with an Arduino and Arduino Programming
